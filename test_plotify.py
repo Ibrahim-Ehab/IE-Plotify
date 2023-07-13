@@ -2,7 +2,7 @@ import pytest
 from PySide6.QtWidgets import QApplication
 from PySide6.QtTest import QTest
 from PySide6.QtCore import Qt
-from plotify import PlotterWindow
+from function_plotter import PlotterWindow
 
 
 @pytest.fixture(scope="session")
