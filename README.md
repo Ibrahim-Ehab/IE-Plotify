@@ -1,6 +1,37 @@
 # Function Plotter
 
 This is a Python GUI program that allows users to plot arbitrary mathematical functions. It provides a simple and beautiful graphical interface for inputting the function, specifying the range of x values, and displaying the plotted graph using Matplotlib. The program utilizes the Pyside2 library for the GUI and integrates the Matplotlib figure within the application.
+## Snapshots from Plotify
+### Valid Input and Output 
+![Example on Valid input](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/v_input_output.png)
+
+### Invalid Inputs 
+![](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/not_valid_input.png)
+
+### Incomplete Inputs
+![](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/not_complete_input.png)
+
+### Features in Plotify
+![](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/features.png)
+1. `Resete Original View`.
+2. `Back to the previous view`.
+3. `Forward to next view`.
+4. `move around with plot`.
+5. `Zoom to rectangle`.
+6. `Configure subplots`.
+8. `Figure options`.
+10. `Save the figure`.
+    
+#### Configure Subplots
+![](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/configure_subplot.png)
+
+#### Figure options:
+![](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/figure_options_1.png)
+
+![](https://github.com/Ibrahim-Ehab/micro-master-task-answer/blob/main/screenshots/figure_options_2.png)
+
+
+
 
 ## Requirements
 
