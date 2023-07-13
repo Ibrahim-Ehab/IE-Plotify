@@ -41,7 +41,7 @@ pystest test_plotify.py
 ```
 The tests will be executed, and the results will be displayed in the terminal.
 ## Code Organization and Documentation
-The code is organized into multiple files and directories to maintain modularity and readability. Here's an overview of the code structure:
+The code is organized into multiple files to maintain modularity and readability. Here's an overview of the code structure:
 
 - `plotify.py`: Contains the main entry point of the program.
 - `function_plotter.py`: Implements the GUI and handles user interactions.
